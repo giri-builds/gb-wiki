@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "fa9702d4f85ed826",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7ad9b37f1522a94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840400aee6425cb7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e44f4d806a97f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "b953c7211c54b612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "142e9e2d3bb0878c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e53453cd4b899f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "529175fcb2bce351",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f01956f70758e706",
+    "type": "split",
+    "children": [
+      {
+        "id": "47957fcf91c52b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51fe85df48dacf22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "50cbb4e22dc85a02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d77c422938de0087",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c7eeb9dff13d3b42",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "59a079d10428155f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "840400aee6425cb7",
+  "lastOpenFiles": [
+    "index.md",
+    "entities/langchain.md",
+    "comparisons/standard-rag-vs-agentic-rag.md",
+    "sources/how-agentic-rag-works.md",
+    "concepts/context-engineering.md",
+    "sources/context-engineering.md",
+    "sources/claude-50-interview-questions.md",
+    "concepts/context-window-management.md",
+    "entities/claude-agent-sdk.md",
+    "sources/claude-architect-exam-guide.md",
+    "entities/claude-code.md",
+    "sources/claude-common-workflows.md",
+    "sources/claude-certified-architect-exam-guide.md",
+    "sources/50-claude-interview-questions.md",
+    "sources/langchain-langgraph-projects.md",
+    "sources/slms-future-of-agentic-ai.md",
+    "sources/agentic-ai-interview-questions.md",
+    "sources/llms-50-interview-questions.md",
+    "concepts/llm-inference-nondeterminism.md",
+    "sources/defeating-nondeterminism-in-llm-inference.md",
+    "concepts/llm-hallucination.md",
+    "sources/why-language-models-hallucinate.md",
+    "meta/ingestion-plan.md",
+    "entities/cohere.md",
+    "entities/deepeval.md",
+    "concepts/query-refinement.md"
+  ]
+}
